@@ -1,0 +1,1 @@
+{"version":3,"sources":["lobsterwatch/config.cljs"],"mappings":";;AAEA,AAAKA,AACMC","names":["lobsterwatch.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns lobsterwatch.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}

@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "shadow-cljs": "2.8.52"
+  },
+  "dependencies": {
+    "create-react-class": "15.6.3",
+    "highlight.js": "9.15.8",
+    "konva": "^4.0.10",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-flip-move": "3.0.3",
+    "react-highlight.js": "1.0.7",
+    "react-konva": "^16.9.0-0"
+  }
+}
